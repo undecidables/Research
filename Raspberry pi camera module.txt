@@ -1,0 +1,6 @@
+Below are some links that show its possible to access the camera(with Java) on the PI more specifically the raspberri pi camera module
+
+1) http://www.rmnd.net/building-an-action-camera-using-a-raspberry-pi-and-java/
+2) http://stackoverflow.com/questions/18090588/raspberry-pi-csi-camera-reading-h264-data-from-raspivid-stdout-with-java
+3) https://blogs.oracle.com/speakjava/entry/java_and_the_raspberry_pi
+

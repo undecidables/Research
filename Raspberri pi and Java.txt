@@ -1,0 +1,4 @@
+Some links about the raspberri pi and Java
+
+1) http://www.oracle.com/technetwork/articles/java/raspberrypi-1704896.html
+2) http://pi4j.com/
