@@ -1,0 +1,31 @@
+Java server:
+	-Java EE or SE ?
+	-MVC framework like spring? 
+
+Dynamic web pages:
+	- JSP?
+	- JSF?
+	- Something else?
+	
+Dependency Management:
+(The Google calendar API requires one of these as far as I can figure out
+and maybe the bimoetric libraries are also available on a maven repo....)
+	-Maven
+	-Gradle
+	
+Maven:
+- We have slides and stuff on it
+- XML based
+- Less Flexible (But how much flexibility do we really need?)
+- Lots of plugins available
+- Once again: Its old (v2.0 in 2005) so there is lots of documentation and stuff available
+
+Gradle (It supports Maven repos):
+- Experimental
+- More readable code if we have to write build stuff ourselves
+- Apprently more powerful? 
+- Not ancient like Maven (it only came out in 2012....), so not so many plugins or documentation
+- The internet seems to like it better and its google's default
+
+Links:
+http://devops.com/2015/03/27/puzzle-gradle-maven/
