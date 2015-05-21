@@ -1,6 +1,8 @@
 Java server:
 	-Java EE or SE ?
-	-MVC framework like spring? 
+	-MVC framework?
+		-Spark -> http://sparkjava.com/documentation.html
+		-Spring -> https://spring.io/
 
 Dynamic web pages:
 	- JSP?
