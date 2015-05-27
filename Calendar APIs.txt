@@ -1,0 +1,9 @@
+Calendar API's We Will be using:
+
+Google Calendar: 
+	Name: google-calendar-api
+	Source: https://developers.google.com/google-apps/calendar/quickstart/java
+
+Microsoft Outlook Calendar:
+	Name: Live Connect API
+	Source: https://msdn.microsoft.com/en-us/library/hh826523.aspx#cal_java
