@@ -1,0 +1,1 @@
+http://blog.mongodb.org/post/94065240033/getting-started-with-mongodb-and-java-part-i
